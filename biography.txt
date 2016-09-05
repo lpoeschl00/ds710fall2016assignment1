@@ -1,8 +1,18 @@
-Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+-- Assignment 1 - Biography portion
+-- Lisa Poeschl
+-- 9/5/16
+
 1. What is your name?
+		My name is Lisa Poeschl.
 2. Why are you interested in Data Science?
+		I am interested in Data Science, because my background is in engineering, computer science and economics.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+		I have had coursework in Fortran, Pascal, Java and SQL.  I use SQL on the job daily for pulling data.
+4. Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+		I have had 2 semesters of calculus-based statistics as well as statistics for economics.  My knowledge of forecasting models has helped me on the job in the Demand Planning department.
+5. Do you have other experience with R or Python?
+		Other than what I have read over the summer and touched on in DS 700, I have no experience with R or Python.
+6. What do you hope to learn in this class?
+		In this class I hope to learn how to apply R and Python to my job.
+7. Is there anything else you would like to share with us?
+		Just last week I began transitioning to a new position in Business Data, so I will be working 2 jobs along with learning 2 languages.
